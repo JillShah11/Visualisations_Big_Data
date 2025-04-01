@@ -56,11 +56,10 @@ All visualizations are based on Gold Layer data curated in **Azure Data Lake Sto
 
 ## 🖼️ Sample Screenshots
 
-> *(Optional)* Include screenshots or gifs of your dashboards here.  
+![image](https://github.com/user-attachments/assets/a422dfac-88e8-4ff3-916e-6b08c967aeab)
 
----
+![image](https://github.com/user-attachments/assets/efa4bbfe-f9d7-45c9-99e0-ebe68f328384)
 
-## 📈 Next Steps
+![image](https://github.com/user-attachments/assets/7d149222-be38-4264-ba8e-e0650cf348f0)
 
-- Embed dashboards into Power BI for executive reporting  
-- Set up real
+
